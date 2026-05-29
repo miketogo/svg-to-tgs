@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /success
+Disallow: /fail
+
+Sitemap: https://svgtotgs.com/sitemap.xml

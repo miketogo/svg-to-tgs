@@ -1,0 +1,47 @@
+# SVG to TGS
+
+> Browser-based SVG to TGS converter for Telegram animated stickers and custom emoji.
+
+SVG to TGS lets users upload SVG artwork, apply browser-based animation presets or supported layer controls, preview the result, and export Telegram-ready TGS files. The product is independent and is not an official Telegram tool.
+
+## Core Documents
+
+- [SVG to TGS Converter for Telegram Stickers and Custom Emoji](https://svgtotgs.com/llms/overview.md): Convert SVG into Telegram-ready TGS animations. Create animated stickers, custom emoji, preview your result in Telegram, and export from one browser-based SVG to TGS tool.
+
+- [SVG to TGS Converter](https://svgtotgs.com/llms/svg-to-tgs.md): Convert SVG files into Telegram-ready TGS animations for animated stickers and custom emoji. Upload SVG, animate, preview, and export in your browser.
+
+- [Convert SVG to Telegram Sticker](https://svgtotgs.com/llms/svg-to-telegram-sticker.md): Turn SVG artwork into Telegram-ready animated stickers. Upload SVG, animate it in the browser, preview the result, and export a TGS file.
+
+- [Telegram Custom Emoji Maker](https://svgtotgs.com/llms/telegram-custom-emoji.md): Create animated Telegram custom emoji from SVG files and export Telegram-ready TGS animations for emoji packs, bots, communities, and products.
+
+- [Telegram Animated Sticker Maker](https://svgtotgs.com/llms/telegram-animated-sticker-maker.md): Animate SVG files in your browser and export Telegram-ready TGS stickers with presets, preview, and a simple editor workflow.
+
+- [TGS Converter for Telegram Stickers](https://svgtotgs.com/llms/tgs-converter.md): Create Telegram-ready TGS files from SVG artwork with a simple browser-based animation workflow for stickers and custom emoji.
+
+- [SVG to TGS Pro](https://svgtotgs.com/llms/upgrade.md): Telegram preview, sticker pack automation, custom emoji pack automation, and advanced animation controls.
+
+- [Privacy Policy](https://svgtotgs.com/llms/privacy.md): Data handling, analytics, support, files, Telegram integration, and account information.
+
+- [Terms of Service](https://svgtotgs.com/llms/terms.md): Service rules, Pro access, Telegram integration, payments, and acceptable use.
+
+## Optional Documents
+
+- [Telegram Sticker Pack Maker](https://svgtotgs.com/llms/telegram-sticker-pack-maker.md): Create animated Telegram sticker assets from SVG files and prepare consistent TGS exports for sticker packs, branded packs, and community packs.
+
+- [Lottie to TGS for Telegram: What You Need to Know](https://svgtotgs.com/llms/lottie-to-tgs.md): Learn how Telegram TGS relates to Lottie and create Telegram-ready TGS animations from SVG assets using a browser-based workflow.
+
+- [Create Telegram Animated Stickers Without After Effects](https://svgtotgs.com/llms/after-effects-alternative.md): Animate SVG files and export Telegram-ready TGS stickers directly from your browser without using After Effects for simple sticker and emoji motion.
+
+- [Custom Emoji and Stickers for Telegram Bots](https://svgtotgs.com/llms/telegram-bot-custom-emoji.md): Create branded animated emoji and stickers for Telegram bot interfaces from SVG files and export Telegram-ready TGS assets.
+
+- [Animate SVG Online for Telegram Stickers and Emoji](https://svgtotgs.com/llms/svg-animation-online.md): Animate SVG online, preview the result, and export a Telegram-ready TGS file for animated stickers and custom emoji.
+
+## Links
+
+- Website: https://svgtotgs.com/
+
+- Full LLM context: https://svgtotgs.com/llms-full.txt
+
+- Sitemap: https://svgtotgs.com/sitemap.xml
+
+- Support: mailto:support@svgtotgs.com
