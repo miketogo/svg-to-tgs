@@ -7,6 +7,13 @@ dependency-free validator that checks whether a `.tgs` file will be accepted.
 
 👉 **Free browser converter (SVG → TGS, no After Effects): https://svgtotgs.com**
 
+## Demo
+
+![SVG to TGS — SVG in, Telegram-ready TGS out](docs/demo.gif)
+
+*Pick a motion preset, preview it in a Telegram-style frame, and export a `.tgs`
+under 4 KB. ([watch the full video](https://youtu.be/qC1yKnyPU_o))*
+
 ---
 
 ## What is TGS?
