@@ -1,0 +1,28 @@
+{
+  "name": "svg-to-tgs",
+  "version": "1.0.0",
+  "description": "TGS format reference, a dependency-free .tgs validator, and a working SVG to TGS example for Telegram animated stickers and custom emoji.",
+  "type": "module",
+  "bin": {
+    "validate-tgs": "tools/validate-tgs.mjs"
+  },
+  "scripts": {
+    "validate": "node tools/validate-tgs.mjs examples/square.tgs"
+  },
+  "keywords": [
+    "svg",
+    "tgs",
+    "telegram",
+    "telegram-stickers",
+    "custom-emoji",
+    "lottie",
+    "animated-stickers",
+    "converter"
+  ],
+  "homepage": "https://svgtotgs.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miketogo/svg-to-tgs.git"
+  },
+  "license": "MIT"
+}
